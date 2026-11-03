@@ -15,7 +15,7 @@ I build full-stack web and mobile apps, mostly for healthcare, and I like adding
 
 | Project | What it is |
 | --- | --- |
-| [MedScribe](https://github.com/MuhammadHozaif-Bitsol/MedScribe) | Ambient clinical-scribe EHR: live visit transcript, AI-drafted SOAP note with decision support, clinician review and signing. Next.js web app, NestJS API and Expo mobile app on one Postgres database, with role-based access and a hash-chained audit log |
+| [medical-app-nextjs](https://github.com/MuhammadHozaif-Bitsol/medical-app-nextjs) | MedBook: clinic booking app on Next.js 16 with patient and staff roles, an AI assistant, and server actions that prevent double-booking |
 | [mcp-document-chat](https://github.com/MuhammadHozaif-Bitsol/mcp-document-chat) | CLI chat where Claude reads and edits documents through an MCP server and client I wrote |
 | [hybrid-rag-search](https://github.com/MuhammadHozaif-Bitsol/hybrid-rag-search) | Hybrid retrieval written by hand: BM25 and Voyage AI embeddings merged with Reciprocal Rank Fusion |
 | [agent-clinic](https://github.com/MuhammadHozaif-Bitsol/agent-clinic) | Satirical clinic for AI agents, built spec-first with Playwright, accessibility and Lighthouse checks |
